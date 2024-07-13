@@ -1,7 +1,6 @@
 { "videos": [
     {
         "id": "ZY3-MFxVdEw",
-        "titulo": "O que faz uma desenvolvedora front-end?",
         "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
         "categoria": "Front-End",
@@ -10,7 +9,6 @@
     
     {
         "id": "MnU1K1XIF1E",
-        "titulo": "Melhor stack de Java para Cloud",
         "imagem": "https://img.youtube.com/vi/MnU1K1XIF1E/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=MnU1K1XIF1E",
         "categoria": "Back-End",
@@ -18,7 +16,6 @@
     },
     {
         "id": "DXmI0RaNn5I",
-        "titulo": "Se prepare para entrevistas de vagas de Cientista de Dados",
         "imagem": "https://img.youtube.com/vi/DXmI0RaNn5I/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=DXmI0RaNn5I",
         "categoria": "Data-Science",
@@ -26,7 +23,6 @@
     },
     {
         "id": "fiPfvylj6rk",
-        "titulo": "O que faz uma desenvolvedora Back-end?",
         "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
         "categoria": "Back-End",
@@ -34,7 +30,6 @@
     },
     {
         "id": "Zwvq-rlIHAw",
-        "titulo": "O que faz uma Cientista de Dados? ",
         "imagem": "https://img.youtube.com/vi/Zwvq-rlIHAw/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=Zwvq-rlIHAw",
         "categoria": "Data-Science",
@@ -42,7 +37,6 @@
     },
     {
         "id": "CaTbfdsVydE",
-        "titulo": "Como testar seu Front-end?",
         "imagem": "https://img.youtube.com/vi/CaTbfdsVydE/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=CaTbfdsVydE",
         "categoria": "Front-End",
@@ -50,7 +44,6 @@
     },
     {
         "id": "jpuJ1qrluoU",
-        "titulo": "Orientação a objetos",
         "imagem": "https://img.youtube.com/vi/jpuJ1qrluoU/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=jpuJ1qrluoU",
         "categoria": "Back-End",
@@ -58,7 +51,6 @@
     },
     {
         "id": "iVNR-6v8lZU",
-        "titulo": "Métricas para o Front End",
         "imagem": "https://img.youtube.com/vi/iVNR-6v8lZU/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
         "categoria": "Front-End",
@@ -66,7 +58,6 @@
     },
     {
         "id": "IQjd272BLnw",
-        "titulo": "Guia de Carreira PYTHON ",
         "imagem": "https://img.youtube.com/vi/IQjd272BLnw/mqdefault.jpg",
         "video": "https://www.youtube.com/watch?v=IQjd272BLnw",
         "categoria": "Data-Science",
