@@ -1,4 +1,4 @@
- [
+{ "videos": [
     {
         "id": "ZY3-MFxVdEw",
         "titulo": "O que faz uma desenvolvedora front-end?",
@@ -73,3 +73,4 @@
         "cor": "#8A2BE2"
     }
 ]
+}
